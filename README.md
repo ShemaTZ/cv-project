@@ -1,2 +1,2 @@
 # cv-project
-https://github.com/ShemaTZ/cv-project
+https://roadmap.sh/projects/single-page-cv
